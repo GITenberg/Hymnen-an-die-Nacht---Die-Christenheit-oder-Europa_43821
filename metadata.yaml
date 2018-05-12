@@ -1,0 +1,31 @@
+_repo: Hymnen-an-die-Nacht---Die-Christenheit-oder-Europa_43821
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43821-h/images/cover_novalis-hymnen_500.jpg
+creator:
+  author:
+    agent_name: Novalis
+    aliases:
+    - Hardenberg, Georg Philipp Friedrich von
+    - Hardenberg, Friedrich, Freiherr von
+    birthdate: 1772
+    deathdate: 1801
+    gutenberg_agent_id: '35529'
+    url: http://www.gutenberg.org/2009/agents/35529
+    wikipedia: http://en.wikipedia.org/wiki/Novalis
+description: ''
+gutenberg_issued: '2013-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43821'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry'
+- !lcsh 'Christianity in literature'
+title: Hymnen an die Nacht / Die Christenheit oder Europa
+url: http://www.gutenberg.org/ebooks/43821
